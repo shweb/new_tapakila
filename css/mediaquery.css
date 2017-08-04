@@ -1,0 +1,414 @@
+/* ============================================== */
+/* HDTV                                           */
+/*                                      1920x1080 */
+/* ============================================== */
+@media screen and (min-width: 1080px) and (max-width: 1920px) {
+	/* ADD YOUR CSS ADJUSTMENTS BELOW HERE */
+	. . .
+
+}
+
+/* ============================================== */
+/* Widescreen                                     */
+/*                                       1280x800 */
+/* ============================================== */
+@media screen and (min-width: 800px) and (max-width: 1280px) {
+	/* ADD YOUR CSS ADJUSTMENTS BELOW HERE */
+	. . .
+
+}
+
+/* ============================================== */
+/* Twitter Bootstrap                              */
+/*                                       980x     */
+/* ============================================== */
+@media screen and (min-width: 980px) {
+	/* ADD YOUR CSS ADJUSTMENTS BELOW HERE */
+	. . .
+
+}
+
+/* ============================================== */
+/* Twitter Bootstrap                              */
+/*                                       x979     */
+/* ============================================== */
+@media screen and (max-width: 979px) {
+	/* ADD YOUR CSS ADJUSTMENTS BELOW HERE */
+	. . .
+
+}
+
+/* ============================================== */
+/* iPad Landscape & Portrait                      */
+/*                                       1024x768 */
+/* ============================================== */
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+
+	.activeee {
+		display: inline-block;
+		position: relative;
+		background-color: white;
+		color: red !important;
+		padding: 6px;
+		width: 270px;
+		padding-left: 50px !important;
+		margin-left: -150px;
+		text-align: right;
+	}
+	.activeee::after {
+		content: '';
+		display: none;
+		position: absolute;
+		left: 100%;
+		top: 0;
+		border-top: 18px solid transparent;
+		border-bottom: 18px solid transparent;
+		border-left: 22px solid white;
+	}
+	#site-header .site-advertisement .se {
+		margin: 12%;
+		position: relative;
+		width: 100%;
+		margin-left: 42px;
+	}
+	.compte{
+		padding-left: 2px;
+	}
+	.un{
+		margin-left: -12px;
+		padding-top: 14px;
+	}
+	.deux{
+		width: 15px;
+	}
+	.compte2{
+		width: 40px;
+		margin-bottom: 15px;
+		padding-top: 19px;
+	}
+	img.compte {
+		width: 32px;
+		height: 32px;
+		margin-left: 43%;
+		border: 5px;
+		padding: 4px;
+		font-weight: bold;
+		margin-right: 10px;
+	}
+
+
+}
+
+/* ============================================== */
+/* iPad Landscape                                 */
+/*                                       1024x768 */
+/* ============================================== */
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation:landscape) {
+
+
+}
+
+/* ============================================== */
+/* iPad Portrait                                  */
+/*                                       768x1024 */
+/* ============================================== */
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation:portrait) {
+	/* ADD YOUR CSS ADJUSTMENTS BELOW HERE */
+	. . .
+
+}
+
+/* ============================================== */
+/* Small Tablet Landscape/Portrait                */
+/*                                        800x600 */
+/* ============================================== */
+@media screen and (min-width: 600px) and (max-width: 800px) {
+	/* ADD YOUR CSS ADJUSTMENTS BELOW HERE */
+	. . .
+}
+
+
+/* ============================================== */
+/* iPhone5/Android landscape (& narrow browser)   */
+/*                                        568x320 */
+/* ============================================== */
+@media screen and (min-width: 320px) and (max-width:568px) {
+	/* ADD YOUR CSS ADJUSTMENTS BELOW HERE */
+	. . .
+}
+
+/* ============================================== */
+/* iPhone4/Android landscape (& narrow browser)   */
+/*                                        480x320 */
+/* ============================================== */
+@media screen and (min-width: 320px) and (max-width:480px) {
+	/* ADD YOUR CSS ADJUSTMENTS BELOW HERE */
+	. . .
+
+/* ============================================== */
+/* iPhone4/Android portrait               320x480 */
+/* iPhone5 portrait                       320x568 */
+/* ============================================== */
+@media screen and (max-width:365px) {
+
+	.activeee {
+		display: inline-block;
+		position: relative;
+		background-color: white;
+		color: red !important;
+		padding: 6px;
+		width: 530px;
+		padding-left: 202px !important;
+		margin-left: -216px ;
+	//padding-right: 10px;
+		text-align:center;
+	}
+
+	.activeee::after {
+		content: '';
+		display: none;
+		position: absolute;
+		left: 100%;
+		top: 0;
+		border-top: 18px solid transparent;
+		border-bottom: 18px solid transparent;
+		border-left: 22px solid white;
+	}
+	.s_menu div p {
+		padding-bottom: 3px !important;
+		color: #9e9b9b;
+		text-align: center;
+	}
+	#sary {
+		width: 70px;
+		margin-top: 14%;
+		margin-left: 36%;
+	}
+	#bonjour {
+		margin-left: 38%;
+		font-size: medium;
+	}
+	.btio2 {
+		border-radius: 2% !important;
+		margin-bottom: 3% !important;
+		margin-top: 2% !important;
+		margin-left: 5%;
+		width: 31%;
+	}
+	#site-header .site-advertisement .se {
+		margin: 0%;
+		position: relative;
+		width: 100%;
+		margin-left: -19px;
+	}
+	.mot1 {
+		color: white;
+		font-size: 78%;
+		padding-right: 0;
+		padding-left: 74px!important;
+	}
+	.compte2{
+		margin-left: 75px;
+	}
+	img.compte {
+		width: 32px;
+		height: 32px;
+		margin-left: 32%;
+		border: 5px;
+		padding: 4px;
+		font-weight: bold;
+		margin-right: 10px;
+	}
+}
+
+
+}
+
+/* ============================================== */
+/* Smaller devices                                */
+/* Android Landscape                      320x240 */
+/* ============================================== */
+@media screen and (min-width:240px) and (max-width:320px) {
+	/* ADD YOUR CSS ADJUSTMENTS BELOW HERE */
+	. . .
+}
+
+/* ============================================== */
+/* Smaller devices                                */
+/* Android Portrait                       240x320 */
+/* ============================================== */
+@media screen and (max-width:240px) {
+	/* ADD YOUR CSS ADJUSTMENTS BELOW HERE */
+}
+
+@media screen and (max-width:425px) {
+	/* ADD YOUR CSS ADJUSTMENTS BELOW HERE */
+	.mot1 {
+		color: white;
+		font-size: 80%;
+		padding-right: 2px;
+		padding-left: 90px !important;
+	}
+
+	.compte2 {
+		width: 50px;
+		margin-left: 97px;
+	}
+	#sary {
+		width: 70px;
+		margin-top: 14%;
+		margin-left: 38%;
+	}
+	#bonjour {
+		margin-left: 40%;
+		font-size: medium;
+	}
+	.activeee {
+		/* display: inline-block; */
+		position: relative;
+		background-color: white;
+		color: red !important;
+		width: 363px;
+		margin-left: -216px;
+		/* padding-right: 10px; */
+		margin-left: -7px;
+		text-align: right;
+	}
+	.activeee:after{
+		display: none;
+	}
+	.s_menu div {
+		padding: 2px;
+		font-size: 16px !important;
+		margin-top: 8px;
+		color: #93a1a1;
+		text-align: left;
+	}
+}
+
+
+
+
+
+@media screen and (max-width:620px) {
+	/* ADD YOUR CSS ADJUSTMENTS BELOW HERE */
+	.mot1 {
+		color: white;
+		font-size: 80%;
+		padding-right: 2px;
+		padding-left: 184px !important;
+	}
+	.compte2 {
+		width: 50px;
+		margin-left: 184px;
+	}
+
+	img.compte {
+		width: 32px;
+		height: 32px;
+		margin-left: 38%;
+		border: 5px;
+		padding: 4px;
+		font-weight: bold;
+		margin-right: 10px;
+	}
+	#sary {
+		width: 70px;
+		margin-top: 14%;
+		margin-left: 41%;
+	}
+	#bonjour {
+		margin-left: 42%;
+		font-size: medium;
+	}
+	.s_menu div {
+		padding: 2px;
+		font-size: 16px !important;
+		margin-top: 8px;
+		text-align: left;
+		color: #93a1a1;
+	}
+	.activeee {
+		/* display: inline-block; */
+		position: relative;
+		background-color: white;
+		color: red !important;
+		width: 300px;
+		margin-left: 13px;
+		/* padding-right: 10px; */
+		text-align: right;
+	}
+	.activeee:after{
+		display: none;
+	}
+	.un li{
+		display: block;
+	}
+	.btio2 {
+		border-radius: 2% !important;
+		margin-bottom: 3% !important;
+		margin-top: 2% !important;
+		margin-left: 5%;
+		width: 30%;
+	}
+	#site-header .site-advertisement .se {
+		margin: 6%;
+		position: relative;
+		width: 100%;
+		margin-left: -12px;
+	}
+
+}
+@media screen and (max-width:360px){
+	.mot1 {
+		color: white;
+		font-size: 80%;
+		padding-right: 2px;
+		padding-left: 75px !important;
+	}
+
+	img.compte {
+		width: 32px;
+		height: 32px;
+		margin-left: 31%;
+		border: 5px;
+		padding: 4px;
+		font-weight: bold;
+		margin-right: 10px;
+	}
+	.compte2 {
+		width: 44px;
+		margin-left: 80px;
+	}
+	#sary {
+		width: 70px;
+		margin-top: 14%;
+		margin-left: 37%;
+	}
+	#bonjour {
+		margin-left: 39%;
+		font-size: medium;
+	}
+
+
+	}
+
+
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
+	.mot1 {
+		color: white;
+		font-size: 80%;
+		padding-right: 2px;
+		padding-left: 97px !important;
+	}
+	.compte2 {
+		width: 50px;
+		margin-left: 104px;
+	}
+
+}
+
+
+
+
+
