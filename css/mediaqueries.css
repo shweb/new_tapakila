@@ -1,18 +1,99 @@
 /* team trustylabs */
-@media screen and (max-width:360px) {
+
+/* HEADER AND FOOTER START */
+@media screen and (max-width:300px) {
+	.champs{
+    padding-left: 0  ! important;
+}
+/* footer */
+#background-footer{
+	background-color: #d50000;
+height: 850px;
+}
+.hom {
+    margin-left: -43px ! important;
+}
+.link {
+    margin-top: 3px ! important;
+    margin-left: -43px ! important;
+}
+.info {
+    margin-left: 135px ! important;
+}
+.home {
+  margin-left: -57px ! important;
+    padding-top: 10px ! important;
+}
+.terme {
+    margin-left: -75px ! important;
+    padding-top: 7px ! important;
+}
+.mail {
+    margin-left: -42px ! important;
+    margin-top: 5px ! important;
+}
+.contact {
+margin-left: -63px !important;
+margin-top: 11px !important;
+}
+.fb{
+	margin-left: -15px !important;
+}
+.fbk {
+ margin-left: -47px !important;
+padding-top: 4px !important;
+}
+.twit {
+   margin-left: -14px !important;
+padding-top: 6px !important;
+}
+.twiter {
+   padding-left: 0 !important;
+padding-top: 14px !important;
+}
+.youtub {
+  margin-left: -11px !important;
+padding-top: 8px !important;
+}	
+.envelope {
+    padding-left: 0 !important;
+    margin-top: 14px !important;
+}
+}
+@media screen and (min-width:319px) and (max-width:350px) {
+	.inscrit {
+    margin-left: -329px;
+}
+	.inscripto {
+
+    margin-left: 29px ! important;
+
+}
+		.champs{
+    padding-left: 0  ! important;
+}
+	.mot {
+    margin-left: 13px;
+}
+	.panier {
+    max-width: 30px ! important;
+    margin-top: 10px ! important;
+    margin-left: 16px ! important;
+}
+	/* header */
 #background {
 background-color: #d50000;
-height: 350px;
+height: 400px;
 }
 .logo{
 margin-top: 8px ! important;
-margin-left: 95px ! important;
+margin-left: 35px ! important;
 }
 .user{
-margin-left:77px;
+/* margin-left:77px; */
 }
 .cart{
-margin-left:-77px;
+margin-left:
 }
 .bleu-color {
 width: 204px ! important;
@@ -23,22 +104,64 @@ max-width: 33px ! important;
 margin-top: 7px ! important;
 margin-left: 68px ! important;
 }
+/* footer */
+#background-footer{
+	background-color: #d50000;
+height: 850px;
+}
+.info {
+    margin-left: 135px ! important;
+}
+.home {
+    padding-left: 10px ! important;
+    padding-top: 10px ! important;
+}
+.terme {
+    margin-left: -37px ! important;
+    padding-top: 7px ! important;
+}
+.contact {
+    padding-left: 6px ! important;
+    margin-top: 14px ! important;
+}
+.fb{
+	margin-left: 27px ! important;
+}
+.fbk {
+    padding-left: 28px ! important;
+    padding-top: 5px ! important;
+}
+.twit {
+    padding-left: 35px ! important;
+    padding-top: 6px ! important;
+}
+.twiter {
+    padding-left: 38px ! important;
+    padding-top: 14px ! important;
+}
+.youtub {
+    padding-left: 35px ! important;
+    padding-top: 8px ! important;
+}
 }
 
 @media screen and (min-width:375px) and (max-width:399px) {
+		.champs{
+    padding-left: 0  ! important;
+}
 #background {
 background-color: #d50000;
-height: 350px;
+height: 400px;
 }
 .logo{
 margin-top: 8px ! important;
 margin-left: 115px ! important;
 }
 .user{
-margin-left:105px;
+/* margin-left:105px; */
 }
 .cart{
-margin-left:-105px;
+/* margin-left:-105px; */
 }
 .bleu-color {
 width: 204px ! important;
@@ -49,24 +172,81 @@ max-width: 33px ! important;
 margin-top: 7px ! important;
 margin-left: 68px ! important;
 }
-
+#background-footer{
+	background-color: #d50000;
+height: 850px;
+}
+.info {
+    margin-left: 135px ! important;
+}
+.home {
+    padding-left: 10px ! important;
+    padding-top: 10px ! important;
+}
+.terme {
+    margin-left: -37px ! important;
+    padding-top: 7px ! important;
+}
+.contact {
+    padding-left: 6px ! important;
+    margin-top: 14px ! important;
+}
+.fb{
+	margin-left: 27px ! important;
+}
+.fbk {
+    padding-left: 28px ! important;
+    padding-top: 5px ! important;
+}
+.twit {
+    padding-left: 35px ! important;
+    padding-top: 6px ! important;
+}
+.twiter {
+    padding-left: 38px ! important;
+    padding-top: 14px ! important;
+}
+.youtub {
+    padding-left: 35px ! important;
+    padding-top: 8px ! important;
+}
 }
 
 @media screen and (min-width:360px) and (max-width:399px) {
+	.inscrit {
+    color: black;
+    margin-left: -311px;
+}
+	.inscripto {
+margin-left: 48px ! important;
+}
+		.champs{
+    padding-left: 0  ! important;
+}
+	.mot {
+    margin-left: 47px ! important;
+}
+	.panier {
+    max-width: 30px ! important;
+    margin-top: 22px ! important;
+    margin-left: 50px ! important;
+}
 #background {
 background-color: #d50000;
-height: 350px;
+height: 400px;
 }
 .logo{
 margin-top: 8px ! important;
 margin-left: 115px ! important;
 }
 .user{
-margin-left:105px;
+/* margin-left:105px; */
 }
-.cart{
-margin-left:-105px;
+
+.cart {
+    padding-top: 0 ! important;
 }
+
 .bleu-color {
 width: 204px ! important;
 margin-left: 89px;
@@ -76,23 +256,79 @@ max-width: 33px ! important;
 margin-top: 7px ! important;
 margin-left: 68px ! important;
 }
-
+#background-footer{
+	background-color: #d50000;
+height: 850px;
+}
+.info {
+    margin-left: 135px ! important;
+}
+.home {
+    padding-left: 10px ! important;
+    padding-top: 10px ! important;
+}
+.terme {
+    margin-left: -37px ! important;
+    padding-top: 7px ! important;
+}
+.contact {
+    padding-left: 6px ! important;
+    margin-top: 14px ! important;
+}
+.fb{
+	margin-left: 27px ! important;
+}
+.fbk {
+    padding-left: 28px ! important;
+    padding-top: 5px ! important;
+}
+.twit {
+    padding-left: 35px ! important;
+    padding-top: 6px ! important;
+}
+.twiter {
+    padding-left: 38px ! important;
+    padding-top: 14px ! important;
+}
+.youtub {
+    padding-left: 35px ! important;
+    padding-top: 8px ! important;
+}
 }
 
 @media screen and (min-width:400px) and (max-width:500px) {
+		.inscrit {
+    margin-left: -286px;
+}
+	.inscripto {
+
+    margin-left: 75px ! important;
+
+}
+		.champs{
+    padding-left: 0  ! important;
+}
+	.mot {
+    margin-left: 70px;
+}
+	.panier {
+    max-width: 30px ! important;
+    margin-top: 10px ! important;
+    margin-left: 70px ! important;
+}
 #background {
 background-color: #d50000;
-height: 350px;
+height: 400px;
 }
 .logo{
 margin-top: 8px ! important;
 margin-left: 145px ! important;
 }
 .user{
-margin-left:115px;
+/* margin-left:115px; */
 }
 .cart{
-margin-left:-115px;
+/* margin-left:-115px; */
 }
 .bleu-color {
 width: 204px ! important;
@@ -103,23 +339,85 @@ max-width: 33px ! important;
 margin-top: 7px ! important;
 margin-left: 68px ! important;
 }
-
+#background-footer{
+	background-color: #d50000;
+height: 850px;
+}
+.info {
+margin-left: 171px !important;
+}
+.home {
+    padding-left: 10px ! important;
+    padding-top: 10px ! important;
+}
+.terme {
+    margin-left: -37px ! important;
+    padding-top: 7px ! important;
+}
+.contact {
+    padding-left: 6px ! important;
+    margin-top: 14px ! important;
+}
+.fb{
+	margin-left: 27px ! important;
+}
+.fbk {
+    padding-left: 28px ! important;
+    padding-top: 5px ! important;
+}
+.twit {
+    padding-left: 35px ! important;
+    padding-top: 6px ! important;
+}
+.twiter {
+    padding-left: 38px ! important;
+    padding-top: 14px ! important;
+}
+.youtub {
+    padding-left: 35px ! important;
+    padding-top: 8px ! important;
+}
+.sociaux {
+    margin-left: 145px ! important;
+}
 }
 
 @media screen and (min-width:501px) and (max-width:550px) {
+	.inscrit {
+    margin-left: -235px ! important;
+}
+	.inscripto {
+
+    margin-left: 127px ! important;
+
+}
+		.champs{
+    padding-left: 0  ! important;
+}
+		.champs{
+    padding-left: 0  ! important;
+}
+.mot {
+    margin-left: 87px;
+}
+	.panier {
+    max-width: 30px ! important;
+    margin-top: 10px ! important;
+    margin-left: 90px ! important;
+}
 #background {
 background-color: #d50000;
-height: 350px;
+height: 400px;
 }
 .logo{
 margin-top: 8px ! important;
 margin-left: 170px ! important;
 }
 .user{
-margin-left:145px;
+/* margin-left:145px; */
 }
 .cart{
-margin-left:-145px;
+/* margin-left:-145px; */
 }
 .bleu-color {
 width: 204px ! important;
@@ -130,23 +428,82 @@ max-width: 33px ! important;
 margin-top: 7px ! important;
 margin-left: 68px ! important;
 }
-
+#background-footer{
+	background-color: #d50000;
+height: 850px;
+}
+.info {
+    margin-left: 205px !important;
+}
+.home {
+    padding-left: 10px ! important;
+    padding-top: 10px ! important;
+}
+.terme {
+    margin-left: -37px ! important;
+    padding-top: 7px ! important;
+}
+.contact {
+    padding-left: 6px ! important;
+    margin-top: 14px ! important;
+}
+.fb{
+	margin-left: 27px ! important;
+}
+.fbk {
+    padding-left: 28px ! important;
+    padding-top: 5px ! important;
+}
+.twit {
+    padding-left: 35px ! important;
+    padding-top: 6px ! important;
+}
+.twiter {
+    padding-left: 38px ! important;
+    padding-top: 14px ! important;
+}
+.youtub {
+    padding-left: 35px ! important;
+    padding-top: 8px ! important;
+}
+.sociaux {
+    margin-left: 175px ! important;
+}
 }
 
 @media screen and (min-width:551px) and (max-width:650px) {
+	.inscrit {
+    margin-left: -192px ! important;
+}
+	.inscripto {
+
+    margin-left: 165px ! important;
+
+}
+		.champs{
+    padding-left: 0  ! important;
+}
+	.mot {
+    margin-left: 145px;
+}
+	.panier {
+    max-width: 30px;
+    margin-top: 10px;
+    margin-left: 150px ! important;
+}
 #background {
 background-color: #d50000;
-height: 350px;
+height: 400px;
 }
 .logo{
 margin-top: 8px ! important;
 margin-left: 215px ! important;
 }
 .user{
-margin-left:190px;
+/* margin-left:190px; */
 }
 .cart{
-margin-left:-190px;
+/* margin-left:-190px; */
 }
 .bleu-color {
 width: 204px ! important;
@@ -157,23 +514,82 @@ max-width: 33px ! important;
 margin-top: 7px ! important;
 margin-left: 68px ! important;
 }
-
+#background-footer{
+	background-color: #d50000;
+height: 850px;
+}
+.info {
+   margin-left: 243px !important;
+}
+.home {
+    padding-left: 10px ! important;
+    padding-top: 10px ! important;
+}
+.terme {
+    margin-left: -37px ! important;
+    padding-top: 7px ! important;
+}
+.contact {
+    padding-left: 6px ! important;
+    margin-top: 14px ! important;
+}
+.fb{
+	margin-left: 27px ! important;
+}
+.fbk {
+    padding-left: 28px ! important;
+    padding-top: 5px ! important;
+}
+.twit {
+    padding-left: 35px ! important;
+    padding-top: 6px ! important;
+}
+.twiter {
+    padding-left: 38px ! important;
+    padding-top: 14px ! important;
+}
+.youtub {
+    padding-left: 35px ! important;
+    padding-top: 8px ! important;
+}
+.sociaux {
+    margin-left: 210px ! important;
+}
 }
 
 @media screen and (min-width:651px) and (max-width:700px) {
+	.inscrit {
+    margin-left: -192px ! important;
+}
+	.inscripto {
+
+    margin-left: 165px ! important;
+
+}
+		.champs{
+    padding-left: 0  ! important;
+}
+	.mot {
+    margin-left: 180px;
+}
+	.panier {
+    max-width: 30px;
+    margin-top: 10px;
+    margin-left: 183px ! important;
+}
 #background {
 background-color: #d50000;
-height: 350px;
+height: 400px;
 }
 .logo{
 margin-top: 8px ! important;
 margin-left: 245px ! important;
 }
 .user{
-margin-left:225px;
+/* margin-left:225px; */
 }
 .cart{
-margin-left:-225px;
+/* margin-left:-225px; */
 }
 .bleu-color {
 width: 204px ! important;
@@ -184,22 +600,82 @@ max-width: 33px ! important;
 margin-top: 7px ! important;
 margin-left: 68px ! important;
 }
-
+#background-footer{
+	background-color: #d50000;
+height: 850px;
+}
+.info {
+   margin-left: 279px !important;
+}
+.home {
+    padding-left: 10px ! important;
+    padding-top: 10px ! important;
+}
+.terme {
+    margin-left: -37px ! important;
+    padding-top: 7px ! important;
+}
+.contact {
+    padding-left: 6px ! important;
+    margin-top: 14px ! important;
+}
+.fb{
+	margin-left: 27px ! important;
+}
+.fbk {
+    padding-left: 28px ! important;
+    padding-top: 5px ! important;
+}
+.twit {
+    padding-left: 35px ! important;
+    padding-top: 6px ! important;
+}
+.twiter {
+    padding-left: 38px ! important;
+    padding-top: 14px ! important;
+}
+.youtub {
+    padding-left: 35px ! important;
+    padding-top: 8px ! important;
+}
+.sociaux {
+    margin-left: 250px ! important;
+}
 }
 @media screen and (min-width:701px) and (max-width:999px) {
+	.inscripto {
+
+    margin-left: 236px ! important;
+
+}
+	.inscrit {
+    color: black;
+    margin-left: -123px ! important;
+}
+		.champs{
+    padding-left: 0  ! important;
+}
+	.mot {
+    margin-left: 204px;
+}
+	.panier {
+    max-width: 30px;
+    margin-top: 10px;
+    margin-left: 204px ! important;
+}
 #background {
 background-color: #d50000;
-height: 350px;
+height: 400px;
 }
 .logo{
 margin-top: 8px ! important;
-margin-left: 275px ! important;
+margin-left: 243px ! important;
 }
 .user{
-margin-left:255px;
+/* margin-left:255px; */
 }
 .cart{
-margin-left:-255px;
+/* margin-left:-255px; */
 }
 .bleu-color {
 width: 204px ! important;
@@ -210,5 +686,129 @@ max-width: 33px ! important;
 margin-top: 7px ! important;
 margin-left: 68px ! important;
 }
-
+#background-footer{
+	background-color: #d50000;
+height: 850px;
 }
+.info {
+margin-left: 335px !important;
+}
+.home {
+    padding-left: 10px ! important;
+    padding-top: 10px ! important;
+}
+.terme {
+    margin-left: -37px ! important;
+    padding-top: 7px ! important;
+}
+.contact {
+    padding-left: 6px ! important;
+    margin-top: 14px ! important;
+}
+.fb{
+	margin-left: 27px ! important;
+}
+.fbk {
+    padding-left: 28px ! important;
+    padding-top: 5px ! important;
+}
+.twit {
+    padding-left: 35px ! important;
+    padding-top: 6px ! important;
+}
+.twiter {
+    padding-left: 38px ! important;
+    padding-top: 14px ! important;
+}
+.youtub {
+    padding-left: 35px ! important;
+    padding-top: 8px ! important;
+}
+.sociaux {
+    margin-left: 306px ! important;
+}
+}
+
+
+@media screen and (min-width:1000px) and (max-width:1200px) {
+		.champs{
+    padding-left: 0  ! important;
+}
+	.mot {
+    margin-left: 145px;
+}
+	.panier {
+    max-width: 30px;
+    margin-top: 10px;
+    margin-left: 150px ! important;
+}
+#background {
+background-color: #d50000;
+height: 400px;
+}
+.logo{
+margin-top: 8px ! important;
+margin-left: 275px ! important;
+}
+.user{
+/* margin-left:255px; */
+}
+.cart{
+/* margin-left:-255px; */
+}
+.bleu-color {
+width: 204px ! important;
+margin-left: 245px;
+}
+.add {
+max-width: 33px ! important;
+margin-top: 7px ! important;
+margin-left: 68px ! important;
+}
+#background-footer{
+	background-color: #d50000;
+height: 850px;
+}
+.info {
+margin-left: 119px !important;
+}
+.home {
+    padding-left: 10px ! important;
+    padding-top: 10px ! important;
+}
+.terme {
+ margin-left: -72px !important;
+padding-top: 56px !important;
+}
+.contact {
+    padding-left: 6px ! important;
+    margin-top: 14px ! important;
+}
+.fb{
+	margin-left: 27px ! important;
+}
+.fbk {
+    padding-left: 28px ! important;
+    padding-top: 5px ! important;
+}
+.twit {
+    padding-left: 35px ! important;
+    padding-top: 6px ! important;
+}
+.twiter {
+    margin-left: -23px !important;
+padding-top: 53px !important;
+}
+.mail {
+    padding-left: 5px !important;
+    padding-top: 14px !important;
+}
+.youtub {
+    padding-left: 35px ! important;
+    padding-top: 8px ! important;
+}
+.sociaux {
+   margin-left: 90px !important;
+}
+}
+/* HEADER FOOTER END */

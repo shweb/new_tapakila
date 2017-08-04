@@ -4,7 +4,7 @@ background-color:#d50000;
 }
 .logo{
 margin-top: 8px;
-margin-left: 65px;
+margin-left: 115px;
 }
 
 .compte{
@@ -31,6 +31,7 @@ margin-top: 10px;
 .add {
 max-width: 30px;
 margin-top: 19px;
+margin-left: 25px;
 }
 
 .header-search-box form {
@@ -63,12 +64,19 @@ font-size: 0;
 background: #680306 url("../img/searchicon.png") no-repeat center center
 }
 
+.cart{
+    padding-left: 55px;
+    padding-top: 10px;
+}
+.user {
+    padding-top: 10px;
+}
 
 
-.header-search-box  {
-font-size: 15px;
-padding: 22px 0 0 15px !important;
-margin: 0
+.header-search-box {
+    font-size: 15px;
+    padding: 28px !important;
+    margin: 0;
 }
 
 .addevent{
@@ -81,5 +89,82 @@ text-align:center;
 .bleu-color{
 background-color: #1e5487;
 border-radius: 10px;
-margin-top:9px;
+margin-top: 19px;
+padding-right: 27px;
 }
+
+
+/* footer start */
+#background-footer{
+	background-color: #d50000;
+}
+#tapakila{
+text-align:center;
+    padding-top: 70px;
+}
+
+.identite{
+	color:white;
+	text-align:center;
+}
+
+.titre{
+	 color: white;
+    text-align: center;
+	padding-top: 30px;
+
+}
+.info{
+	    margin-left: 110px;
+}
+
+.sociaux{
+ margin-left: 110px;
+}
+.home{
+ padding-left: 24px;
+    padding-top: 9px;
+  
+}
+.terme {
+    padding-left: 9px;
+    padding-top: 17px;
+}
+
+.mail {
+    padding-left: 5px;
+}
+.hom {
+    padding-left: 5px;
+}
+.twit {
+    padding-left: 8px;
+}
+.youtub {
+    padding-left: 7px;
+    padding-top: 6px;
+}
+.fbk {
+    padding-left: 35px;
+    padding-top: 15px;
+}
+.twiter {
+    padding-left: 19px;
+    padding-top: 10px;
+}
+.envelope {
+    padding-left: 35px;
+    margin-top: 14px;
+}
+.link{
+	margin-top: 3px;
+}
+.contact {
+    padding-left: 26px;
+    margin-top: 14px;
+}
+
+
+/* footerend */
+
+
