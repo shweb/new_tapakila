@@ -2,6 +2,10 @@
 
 /* HEADER AND FOOTER START */
 @media screen and (max-width:300px) {
+	.white {
+    background-color: #ffffff ! important;
+   
+}
 	.champs{
     padding-left: 0  ! important;
 }
@@ -61,6 +65,39 @@ padding-top: 8px !important;
 }
 }
 @media screen and (min-width:319px) and (max-width:350px) {
+	.white2 {
+    background-color: #ffffff;
+    padding-top: 30px ! important;
+    padding-left: 9% ! important;
+    padding-bottom: 30px ! important;
+    width: 100% ! important;
+}
+	.red3 {
+    margin-left: 21% ! important;
+    color: red;
+}
+	.red4 {
+    margin-left: 39% ! important;
+    margin-top: 17px;
+}
+		.white {
+    background-color: #ffffff ! important;
+	margin: 0 0 0 0px ! important;
+	padding: 0 0 0 0px ! important;
+}
+.champs2 {
+    padding: 30px 30px 30px 30px ! important;
+ 
+}
+.sinscrire {
+  
+    width: 42% ! important;
+    margin-left: 75px ! important;
+}
+.customcolor {
+    width: 100% ! important;
+    margin-left: 1px ! important;
+}
 	.inscrit {
     margin-left: -329px;
 }
